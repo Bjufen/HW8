@@ -22,7 +22,7 @@ public class Main {
 	    ShoppingBasket saraShoppingBasket= new ShoppingBasket();
 	    saraShoppingBasket.addTobasket("Pasta");
 	    saraShoppingBasket.addTobasket("Milk");
-	    System.out.println("sara bill : "+ saraShoppingBasket.getBill());
+	    System.out.println("sara_bill : "+ saraShoppingBasket.getBill());
 	    
 		
 	}
